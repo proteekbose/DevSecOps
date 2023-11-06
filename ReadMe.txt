@@ -1,0 +1,1 @@
+This file is used to test the credentials for connection between the Git Bash and GitHub. Here we will test the connection by pushing this file to the server.
